@@ -1,4 +1,4 @@
-Car Price Prediction with Machine Learning
+# Car Price Prediction with Machine Learning
 CodeAlpha Data Science Internship — Task 3
 Project Overview
 
@@ -8,8 +8,7 @@ The model uses car-related features such as present price, kilometers driven, fu
 
 The project covers the complete Machine Learning workflow, including data preprocessing, exploratory data analysis, feature engineering, model training, prediction, and model evaluation.
 
-Objective
-
+## Objective
 The main objectives of this project are:
 
 Load and understand the car price dataset.
@@ -37,7 +36,7 @@ Dataset
 
 The project uses a used-car dataset containing information about different cars and their selling prices.
 
-Dataset Features
+## Dataset Features
 Feature	Description
 Car_Name	Name of the car
 Year	Manufacturing year of the car
@@ -162,6 +161,27 @@ This visualization compares the actual selling prices with the prices predicted 
 
 This visualization shows the relative importance of different features used by the Machine Learning model.
 
+## Project Visualizations
+
+### 1. Selling Price Distribution
+
+![Selling Price Distribution](images/selling_price_distribution.png.png)
+
+### 2. Present Price vs Selling Price
+
+![Present Price vs Selling Price](images/selling_price_vs_present_price.png.png)
+
+### 3. Car Age vs Selling Price
+
+![Car Age vs Selling Price](images/selling_price_vs_car_age.png.png)
+
+### 4. Actual vs Predicted Prices
+
+![Actual vs Predicted Prices](images/actual_vs_predicted.png.png)
+
+### 5. Feature Importance
+
+![Feature Importance](images/feature_importance.png.png)
 Key Findings
 
 The analysis provides several important observations:
